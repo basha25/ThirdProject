@@ -6,6 +6,7 @@ namespace MyApplication
     static void MyMethod()
     {
       Console.WriteLine("I just got executed!");
+       console.ReadLine();
     }
 
     static void Main(string[] args)
